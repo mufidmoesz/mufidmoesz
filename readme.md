@@ -1,10 +1,9 @@
-![Alt Text](https://i.pinimg.com/originals/e0/81/e9/e081e914c1c424cb15f63056dde725b3.gif)
+![Alt Text]([https://i.pinimg.com/originals/e0/81/e9/e081e914c1c424cb15f63056dde725b3.gif](https://tenor.com/view/my-dress-up-darling-sono-bisque-doll-wa-koi-wo-suru-sono-bisque-doll-marin-kitagawa-kitagawa-marin-gif-24619880))
 
-## Hai 👋, Selamat datang di Github ku
+## Hi everyone, welcome to my Github
 
-- 😄 Pronouns: He/Him
-- 🌱 I’m currently about Fullstack
-- ⚡ Fun fact: Memers & Wibu
+- 😄 Hi, my name is mufid, iam a newbie programmer that interested in backend developer. 
+- i love watching anime and reading manga. the one on the gif above is my waifu😍
 
 ## My Skill
 
