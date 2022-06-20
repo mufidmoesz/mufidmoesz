@@ -1,4 +1,4 @@
-![Alt Text](https://tenor.com/view/my-dress-up-darling-sono-bisque-doll-wa-koi-wo-suru-sono-bisque-doll-marin-kitagawa-kitagawa-marin-gif-24619880)
+![Alt Text](https://github.com/mufidmoesz/mufidmoesz/blob/main/my-dress-up-darling-sono-bisque-doll-wa-koi-wo-suru.gif)
 
 ## Hi everyone, welcome to my Github
 
