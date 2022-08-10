@@ -3,7 +3,7 @@
 ## Hi everyone, welcome to my Github
 
 - 😄 Hi, my name is mufid, iam a newbie programmer that interested in backend developer. 
-- i love watching anime and reading manga. 
+- i love watching anime and reading manga. <br />
 nice to meet you guys😆
 
 ## My Skill
