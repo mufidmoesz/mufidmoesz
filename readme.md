@@ -1,9 +1,10 @@
-![Alt Text](https://github.com/mufidmoesz/mufidmoesz/blob/main/my-dress-up-darling-sono-bisque-doll-wa-koi-wo-suru.gif)
+![Alt Text](https://github.com/mufidmoesz/mufidmoesz/blob/main/sachi-gif.gif)
 
 ## Hi everyone, welcome to my Github
 
 - 😄 Hi, my name is mufid, iam a newbie programmer that interested in backend developer. 
-- i love watching anime and reading manga. the one on the gif above is my waifu😍
+- i love watching anime and reading manga. 
+nice to meet you guys😆
 
 ## My Skill
 
